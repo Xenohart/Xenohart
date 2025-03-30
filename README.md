@@ -18,6 +18,6 @@
 </div>
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xenohart&show_icon=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenohart&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielsbrito&show_icon=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsbrito&layout=compact&theme=tokyonight"/>
 </div>
